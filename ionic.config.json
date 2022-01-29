@@ -1,0 +1,8 @@
+{
+  "name": "Elephant",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "583a2b9a"
+}

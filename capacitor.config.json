@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Elephant",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
